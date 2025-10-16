@@ -78,3 +78,4 @@ void sendData() {
   }
   prevstate = currentstate;
 }
+ 
